@@ -1128,6 +1128,13 @@ div.carslides4 {
 .arrow a:hover{
     color: #011b3a;
 }
+.design a{
+    color: #333333 !important;
+    text-decoration: none;
+}
+.design span a:hover{
+    color: #a52b2a !important;
+}
 /* END OF INDEX */
 
 /* ABOUT US */
