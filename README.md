@@ -4,6 +4,7 @@ A modern and responsive school website built using HTML, CSS, Bootstrap, and Jav
 This project showcases a complete front-end design suitable for educational institutions, featuring sections for academics, admissions, gallery, contact information, and more.
 
 Live Demo
+
 View the website here: https://woodlandschool.netlify.app
 
 Features
