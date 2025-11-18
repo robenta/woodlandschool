@@ -1,4 +1,5 @@
 School Website – Frontend Project
+
 A modern and responsive school website built using HTML, CSS, Bootstrap, and JavaScript. 
 This project showcases a complete front-end design suitable for educational institutions, featuring sections for academics, admissions, gallery, contact information, and more.
 
