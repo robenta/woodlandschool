@@ -20,3 +20,13 @@ Technologies Used
 * CSS3 
 * Bootstrap 5 
 * JavaScript (Vanilla JS)
+
+
+HOW TO RUN
+
+* Clone the repository
+* Open in code editor
+* Run via liveserver
+
+Status
+Completed
